@@ -6,7 +6,7 @@ import App from './App';
 import store from './redux/store';
 import reportWebVitals from './reportWebVitals';
 import CurrentDate from './date'
-import TaskDueDate from './DueDate';
+import TaskDueDate from './DueDateofSeven';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
